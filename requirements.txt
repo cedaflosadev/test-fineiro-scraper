@@ -4,3 +4,4 @@ playwright
 httpx
 pytest
 pydantic
+pytest-asyncio
