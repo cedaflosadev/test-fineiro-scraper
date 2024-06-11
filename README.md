@@ -2,7 +2,7 @@
 
 1. Clona el repositorio
 2. Instala las dependencias: `pip install -r requirements.txt`
-3. necesario para descargar e instalar estos navegadores: `python -m playwright install`
+3. Necesario para descargar e instalar estos navegadores: `python -m playwright install`
 4. Ejecuta la aplicación: `uvicorn app.main:app --reload`
 
 ## Dockerización
